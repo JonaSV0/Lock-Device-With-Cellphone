@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal"
+       android:padding="5dp"
+       android:layout_marginTop="5dp"
+       android:layout_marginBottom="5dp">
+       <LinearLayout
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:orientation="vertical">
+           <TextView
+               android:id="@+id/text_name_history"
+               android:layout_width="250dp"
+               android:layout_height="wrap_content"
+               android:text="Nombre generico"
+               android:textSize="18dp"/>
+           <TextView
+               android:id="@+id/text_dni_history"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_marginTop="5dp"
+               android:text="a00000"
+               android:textSize="15dp"/>
+           <TextView
+               android:id="@+id/text_date_time_history"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_marginTop="5dp"
+               android:text="a00000"
+               android:textSize="15dp"/>
+       </LinearLayout>
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/image_state_history"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/image_bluetooth_history"
+        android:foreground="?android:attr/selectableItemBackground"/>
+
+   </LinearLayout>
+
+</LinearLayout>

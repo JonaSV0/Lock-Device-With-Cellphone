@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "523550596892",
+    "project_id": "aplicationcontrolasistencia",
+    "storage_bucket": "aplicationcontrolasistencia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523550596892:android:8e45e70a2a776f3045e4d9",
+        "android_client_info": {
+          "package_name": "com.example.aplicationcontrolasistencia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523550596892-t32c6opj550h6p2sf8jd2stpr53b5s7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwX-24o2LcRTgrwmy5tMi0nGY3bL9gmVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523550596892-t32c6opj550h6p2sf8jd2stpr53b5s7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523550596892:android:db7f4b629e89876545e4d9",
+        "android_client_info": {
+          "package_name": "com.example.electronic_lock_face"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523550596892-t32c6opj550h6p2sf8jd2stpr53b5s7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwX-24o2LcRTgrwmy5tMi0nGY3bL9gmVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523550596892-t32c6opj550h6p2sf8jd2stpr53b5s7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523550596892:android:9d2960d1212082f245e4d9",
+        "android_client_info": {
+          "package_name": "com.example.registercontrolasistencia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523550596892-t32c6opj550h6p2sf8jd2stpr53b5s7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwX-24o2LcRTgrwmy5tMi0nGY3bL9gmVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523550596892-t32c6opj550h6p2sf8jd2stpr53b5s7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

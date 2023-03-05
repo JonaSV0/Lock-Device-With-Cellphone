@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">electronic_lock_face</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+
+    <string-array name="lista_consejos">
+        <item>Consejo 1</item>
+        <item>Consejo 2</item>
+        <item>Consejo 3</item>
+        <item>Consejo 4</item>
+    </string-array>
+</resources>
